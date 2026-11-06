@@ -1,0 +1,54 @@
+body{
+    
+    text-align: center;
+    line-height: 0.8;
+}
+.redaction-50-regular {
+  font-family: "Redaction 50", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.redaction-50-bold {
+  font-family: "Redaction 50", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.redaction-50-regular-italic {
+  font-family: "Redaction 50", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+#intro{
+ background-color: blueviolet;
+ }
+
+ .head{
+ color: brown;
+ }
+
+ *{
+font-family: 'Courier New', Courier, monospace;
+ }
+ nav,a{
+     background-color: darkgoldenrod;
+ }*/
+
+ div ing{
+  width: 150px;
+  height: 150px;
+ }
+ .head{
+  width: 200px;
+  padding: 10px;
+  margin: 10PX;
+ }
+ *{
+  margin: 0;
+ }
+#intro{
+ background-color: darkgreen ;
+ }
